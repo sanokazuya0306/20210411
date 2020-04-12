@@ -39,7 +39,6 @@ body {
   margin: auto;
   min-width: 70vw;
   max-width: 90vw;
-  padding: 3vh 5vw;
   text-align: center;
   background-color: #FFFB
 }
@@ -47,4 +46,5 @@ body {
 p{
   opacity: 100%;
   font-size: 2vh;
+  margin: 2vh 5vw; 
 }
