@@ -37,6 +37,7 @@ body {
   margin: auto;
   min-width: 70vw;
   max-width: 90vw;
+  padding: 3vh 5vw;
   text-align: center;
   background-color: #FFFB
 }
