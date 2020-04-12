@@ -1,5 +1,5 @@
 function imageJustSize() {
-  var mainVisual = document.getElementsById('main');
+  var mainVisual = document.getElementById('main');
   // var mainVisual2 = document.getElementsByTagName('body');
   var winH = window.innerHeight;
   mainVisual.style.height = winH + 'px';
